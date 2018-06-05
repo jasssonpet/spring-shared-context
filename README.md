@@ -1,0 +1,1 @@
+Beans exposed from library A are singleton across servlet contexts of X and Y by using a parent Spring context and caching it in the shared Tomcat lib `ClassLoader` of A.
