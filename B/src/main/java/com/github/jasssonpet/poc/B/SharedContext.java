@@ -1,4 +1,4 @@
-package com.github.jasssonpet.poc.A;
+package com.github.jasssonpet.poc.B;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
